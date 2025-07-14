@@ -1,0 +1,51 @@
+patient_id,age,gender,blood_pressure,blood_glucose,cholesterol,BMI,diagnosis,doctor_notes
+P001,71,Female,156/85,9.5,3.6,21.0,Obesity,Encouraged to maintain regular exercise.
+P002,70,Female,148/95,6.6,6.5,33.1,Hypertension,Patient advised to reduce salt intake.
+P003,36,Female,124/95,5.6,6.2,26.0,Healthy,"No immediate concerns, continue healthy lifestyle."
+P004,54,Male,108/69,3.9,7.4,20.7,Diabetes,Recommended follow-up in 3 months.
+P005,48,Male,158/78,7.6,6.1,21.6,Obesity,Monitor blood sugar levels daily.
+P006,37,Female,111/87,3.7,3.1,29.4,Hypertension,"No immediate concerns, continue healthy lifestyle."
+P007,80,Male,118/84,3.8,5.9,23.8,Hypertension,"No immediate concerns, continue healthy lifestyle."
+P008,78,Female,140/90,4.0,5.2,28.2,Hypertension,Monitor blood sugar levels daily.
+P009,64,Female,134/61,3.9,5.9,28.4,Diabetes,Recommended follow-up in 3 months.
+P010,41,Male,143/88,6.1,4.8,23.1,Obesity,"No immediate concerns, continue healthy lifestyle."
+P011,66,Male,142/80,7.2,4.0,28.9,Diabetes,Encouraged to maintain regular exercise.
+P012,45,Female,150/74,8.3,6.5,20.8,Healthy,"No immediate concerns, continue healthy lifestyle."
+P013,78,Male,111/94,4.5,7.2,18.1,Obesity,Patient advised to reduce salt intake.
+P014,44,Female,149/70,8.3,5.2,29.5,Diabetes,"No immediate concerns, continue healthy lifestyle."
+P015,26,Female,100/90,7.7,6.6,22.5,Diabetes,Encouraged to maintain regular exercise.
+P016,72,Female,114/70,4.9,6.8,23.8,Diabetes,"No immediate concerns, continue healthy lifestyle."
+P017,30,Female,149/76,7.0,6.8,27.2,Hyperlipidemia,Encouraged to maintain regular exercise.
+P018,80,Male,124/92,9.8,4.7,18.9,Healthy,"No immediate concerns, continue healthy lifestyle."
+P019,48,Female,130/91,7.1,6.5,31.6,Hypertension,Monitor blood sugar levels daily.
+P020,58,Female,107/73,4.4,4.1,20.3,Healthy,"No immediate concerns, continue healthy lifestyle."
+P021,53,Female,151/89,5.0,3.1,27.1,Hyperlipidemia,Monitor blood sugar levels daily.
+P022,49,Female,130/75,7.1,7.4,32.3,Healthy,Monitor blood sugar levels daily.
+P023,67,Male,122/90,8.6,7.1,22.5,Diabetes,Monitor blood sugar levels daily.
+P024,48,Male,124/91,5.4,6.1,22.9,Diabetes,"No immediate concerns, continue healthy lifestyle."
+P025,57,Female,154/73,3.9,7.0,33.6,Healthy,Recommended follow-up in 3 months.
+P026,42,Female,112/77,4.7,3.8,19.2,Hyperlipidemia,"No immediate concerns, continue healthy lifestyle."
+P027,34,Female,130/83,8.0,5.6,19.1,Hyperlipidemia,Patient advised to reduce salt intake.
+P028,40,Female,149/90,9.9,4.4,21.3,Obesity,Recommended follow-up in 3 months.
+P029,47,Male,119/82,8.8,6.4,33.0,Hypertension,Encouraged to maintain regular exercise.
+P030,64,Male,102/61,9.3,4.4,34.1,Diabetes,Monitor blood sugar levels daily.
+P031,58,Male,157/77,8.7,4.5,27.9,Diabetes,Recommended follow-up in 3 months.
+P032,68,Female,103/87,3.7,7.3,23.8,Healthy,Recommended follow-up in 3 months.
+P033,33,Male,153/67,7.2,6.5,27.5,Diabetes,Encouraged to maintain regular exercise.
+P034,28,Female,126/71,7.8,4.4,20.0,Hypertension,"No immediate concerns, continue healthy lifestyle."
+P035,66,Male,100/88,4.6,5.9,18.6,Obesity,Encouraged to maintain regular exercise.
+P036,24,Female,153/94,3.8,4.2,25.9,Hypertension,Patient advised to reduce salt intake.
+P037,35,Male,155/95,6.8,5.0,29.2,Hypertension,"No immediate concerns, continue healthy lifestyle."
+P038,70,Male,155/90,8.5,4.9,32.3,Diabetes,Patient advised to reduce salt intake.
+P039,40,Male,116/93,9.0,6.9,18.5,Obesity,Monitor blood sugar levels daily.
+P040,70,Male,114/100,9.8,3.8,24.5,Diabetes,"No immediate concerns, continue healthy lifestyle."
+P041,53,Male,104/100,6.1,3.2,33.7,Healthy,"No immediate concerns, continue healthy lifestyle."
+P042,44,Male,136/96,4.7,3.6,34.1,Diabetes,Recommended follow-up in 3 months.
+P043,61,Female,126/75,4.7,6.5,24.7,Diabetes,Encouraged to maintain regular exercise.
+P044,64,Male,139/70,7.7,5.3,20.6,Obesity,Encouraged to maintain regular exercise.
+P045,66,Male,105/75,9.5,3.9,30.8,Diabetes,Patient advised to reduce salt intake.
+P046,71,Female,100/78,9.3,6.8,22.8,Diabetes,Monitor blood sugar levels daily.
+P047,62,Male,104/88,4.1,3.7,22.5,Diabetes,Patient advised to reduce salt intake.
+P048,44,Male,130/64,8.0,6.0,27.2,Healthy,Encouraged to maintain regular exercise.
+P049,67,Female,126/84,7.4,3.0,18.2,Diabetes,"No immediate concerns, continue healthy lifestyle."
+P050,55,Male,133/92,6.6,3.8,30.6,Healthy,"No immediate concerns, continue healthy lifestyle."
