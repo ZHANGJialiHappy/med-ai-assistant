@@ -53,7 +53,3 @@ if __name__ == "__main__":
     # 3. 保存索引到本地
     faiss_db.save_local("faiss_medical_index")
     print("FAISS index saved to faiss_medical_index")
-
-    query = "高血糖"
-    results = faiss_db.similarity_search(query, k=1)
-    print(results[0].page_content)
