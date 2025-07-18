@@ -41,8 +41,8 @@ if __name__ == "__main__":
     # print(f"total chunk: {len(chunked_docs)}")
     # print(chunked_docs[0].page_content)
 
-    from langchain.vectorstores import FAISS
-    from langchain.embeddings import HuggingFaceEmbeddings
+    from langchain_community.vectorstores import FAISS
+    from langchain_community.embeddings import HuggingFaceEmbeddings
 
     # 1. 初始化嵌入模型
     embedding_model = HuggingFaceEmbeddings(model_name="BAAI/bge-small-en")
