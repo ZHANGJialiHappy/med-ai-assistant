@@ -5,6 +5,7 @@
 **med-ai-assistant** is an AI-powered tool designed to analyze medical examination reports and explain them in plain, easy-to-understand language for patients. It supports both Chinese and English. The inspiration for this project comes from the need to help family members understand their medical reports, especially when they are in a foreign language.
 
 ---
+
 ![alt text](1.png)
 ![alt text](2.png)
 ![alt text](3.png)
@@ -23,7 +24,12 @@
 
 ## Backend
 
-- **Tech Stack:** FastAPI, pydantic, FAISS, OpenAI, context engineering
+- **Tech Stack:** FastAPI, pydantic, langchain, FAISS, OpenAI, bge-small-en, context engineering
+- **Prepare vector DB:**
+  ```bash
+  cd Document handler
+  python chunk_medical_data.py
+  ```
 - **Setup:**
   ```bash
   pip install -r requirements-dev.txt
