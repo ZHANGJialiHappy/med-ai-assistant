@@ -1,5 +1,6 @@
 import os
 from fastapi import FastAPI, File, UploadFile, Form
+from fastapi.middleware.cors import CORSMiddleware
 from langchain_community.vectorstores import FAISS
 from langchain_huggingface import HuggingFaceEmbeddings
 import PyPDF2
@@ -7,6 +8,15 @@ from backend.schemas import QueryRequest
 from backend.openrouter_client import ask_model
 
 app = FastAPI()
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # 或者指定你的前端地址，如 http://localhost:3000
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 index_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "../Document handler/faiss_medical_index"))
 
 embedding_model = HuggingFaceEmbeddings(model_name="BAAI/bge-small-en")
