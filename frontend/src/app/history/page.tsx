@@ -21,8 +21,10 @@ export default function History() {
 
   return (
     <div>
-      <main className="max-w-2xl mx-auto mt-8">
-        <h2 className="font-bold mb-4">History</h2>
+      <h2 className="font-bold text-3xl mb-4 sticky top-14 z-10 bg-white w-max ml-30">
+        History
+      </h2>
+      <main className="max-w-2xl mx-auto mt-20">
         {history.length === 0 ? (
           <div>No history records found.</div>
         ) : (
