@@ -32,10 +32,12 @@
   ```
 - **Setup:**
   ```bash
+  cd ..
   pip install -r requirements-dev.txt
   ```
 - **Start the server:**
   ```bash
+  cd backend
   python -m uvicorn backend.main:app --reload
   ```
 
@@ -46,6 +48,7 @@
 - **Tech Stack:** Next.js, Tailwind CSS
 - **Setup:**
   ```bash
+  cd frontend
   npm install
   ```
 - **Start the development server:**
