@@ -22,9 +22,9 @@
 
 ---
 
-## Backend
+## Backend powered by RAG
 
-- **Tech Stack:** FastAPI, pydantic, langchain, FAISS, OpenAI, bge-small-en, context engineering
+- **Tech Stack:** FastAPI, pydantic, langchain, FAISS, OpenAI, bge-small-en, mistral-7b-instruct，context engineering
 - **Prepare vector DB:**
   ```bash
   cd Document handler
@@ -69,8 +69,4 @@
 
 ## Inspiration
 
-This project was inspired by the real-life need to help parents and family members understand their medical reports, especially when they are written in English or contain complex medical terminology.
-
----
-
-## License
+This project was inspired by the real-life need to help parents understand their medical reports, especially when they are written in English or contain complex medical terminology.
